@@ -1,7 +1,7 @@
 ### Kim Chna Hyeong 😄
 
 
-![python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=White)
+<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=simpleicons_python&logoColor=white"/>
 
 
 
