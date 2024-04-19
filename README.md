@@ -1,5 +1,5 @@
 ## Kim Chan Hyeong 😄
-***
+
 - Electrical and Computer Engineering of Ajou University
 
 
