@@ -3,9 +3,28 @@
 - Electrical and Computer Engineering of Ajou University
 - 
 
+
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@chanhyeong00">
+        <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+
+  
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
+ api?name=bi-sz)](https://github.com/chanhyeong00/velog-readme-stats)
+
+</div><br>
+
 [![chanhyeong00's GitHub stats](https://github-readme-stats.vercel.app/api?
 username=chanhyeong00&include_all_commits=true&show_icons=true&theme=cobalt)]
 (https://github.com/chanhyeong00/github-readme-stats)
+
+
+
+
 
 
 ### skills
