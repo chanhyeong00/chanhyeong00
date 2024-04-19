@@ -2,6 +2,12 @@
 
 - Electrical and Computer Engineering of Ajou University
 
+## Interests
+- Computer vision
+- Sound 
+- multimodal(image and sound)
+
+
 ## skills
 
 #### main
