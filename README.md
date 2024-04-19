@@ -2,27 +2,12 @@
 
 - Electrical and Computer Engineering of Ajou University
 
-
-
-
-## 📞 Mail 
-<div style="display:flex; flex-direction:row;">
-    <a href="chanhyoung053@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhyeong00&layout=compact)
-
 ## skills
 
 #### main
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> 
 #### sub
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-
 
 
 ## Algorithm Level
