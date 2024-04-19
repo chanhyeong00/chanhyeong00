@@ -2,16 +2,21 @@
 ***
 - Electrical and Computer Engineering of Ajou University
 - 
-<div>
+
+[![chanhyeong00's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=chanhyeong00&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/chanhyeong00/github-readme-stats)
+
+
 ### skills
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-</div>
 
-<div>
+
+
 ### Algorithm Level
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=2002yerlm)](https://solved.ac/2002yerlm)
-  </div>
+
 <!--
 **chanhyeong00/chanhyeong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
