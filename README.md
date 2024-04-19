@@ -4,6 +4,8 @@
 ![python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=White)
 
 
+
+### Algorithm Level
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=2002yerlm)](https://solved.ac/2002yerlm)
 <!--
