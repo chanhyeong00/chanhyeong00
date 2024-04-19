@@ -11,7 +11,7 @@
 
 
 ## Algorithm Level
-
+### python
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=2002yerlm)](https://solved.ac/2002yerlm)
 
