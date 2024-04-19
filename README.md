@@ -1,4 +1,4 @@
-### Kim Chna Hyeong 😄
+### Kim Chan Hyeong 😄
 ***
 
 
