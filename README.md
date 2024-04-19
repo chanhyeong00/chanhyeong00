@@ -1,17 +1,10 @@
 ## Kim Chan Hyeong 😄
 ***
 - Electrical and Computer Engineering of Ajou University
-- 
 
 
 
-## Chan's log 
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@chanhyeong00">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-</div>
+
 ## 📞 Mail 📞
 <div style="display:flex; flex-direction:row;">
     <a href="chanhyoung053@gmail.com">
