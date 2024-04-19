@@ -11,7 +11,15 @@
         <img src="https://img.shields.io/badge/
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
+## 📞 Mail 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="chanhyoung053@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
 
+    
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
  api?name=chanhyeong00)](https://github.com/chanhyeong00/velog-readme-stats)
 
