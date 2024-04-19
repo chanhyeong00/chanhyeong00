@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/badge/
         Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
+</div>
 ## 📞 Mail 📞
 <div style="display:flex; flex-direction:row;">
     <a href="chanhyoung053@gmail.com">
