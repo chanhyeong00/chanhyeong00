@@ -1,11 +1,11 @@
-### Kim Chan Hyeong 😄
+## Kim Chan Hyeong 😄
 ***
 - Electrical and Computer Engineering of Ajou University
 - 
 
 
 
-## 💻 DEV's log 💻
+## Chan's log 
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@chanhyeong00">
         <img src="https://img.shields.io/badge/
@@ -14,7 +14,7 @@
 
   
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=bi-sz)](https://github.com/chanhyeong00/velog-readme-stats)
+ api?name=chanhyeong00)](https://github.com/chanhyeong00/velog-readme-stats)
 
 </div><br>
 
