@@ -21,6 +21,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=2002yerlm)](https://solved.ac/2002yerlm)
 
+
+## velog link
+<a href="https://velog.io/@chanhyeong00"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chanhyeong00"/></a>
+
 <!--
 **chanhyeong00/chanhyeong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
