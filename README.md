@@ -25,6 +25,8 @@
 ## velog link
 <a href="https://velog.io/@chanhyeong00"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chanhyeong00"/></a>
 
+##  Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chanhyoung053@gamil.com)](chanhyoung053@gamil.com)
 <!--
 **chanhyeong00/chanhyeong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
